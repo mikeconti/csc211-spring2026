@@ -10,7 +10,7 @@
 
 
 
-* **Undergraduate:** John, Liam, Lily <br>
+* **Undergraduate:** Ethan, Liam, Maedeh <br>
 
 
 **Office Hours Schedule** - Tyler 3rd Floor Lounge

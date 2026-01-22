@@ -189,8 +189,8 @@ We *will* persevere.
 | Week 9 | Assignment - Assignment 3 <br>Lecture - Recursion and Examples <br>Lecture - Recursion (cont.) and Examples <br>Lab - Programming Exercises (tracing recursion, recursion trees) | [Lecture Slides](/lecture/lecture15.pdf)<br>[Lecture Slides](/lecture/lecture16.pdf)<br>[Lab](/labs/lab-08) | **Assessment** |
 | Week 10 | Lecture - Binary Search <br>Lecture - Advanced Recursion (Backtracking), Structs <br>Lab - Advanced Recursive Problems | [Lecture Slides]()<br>[Lecture Slides]()<br>[Lab](/labs/lab-09) | Lab |
 | Week 11 | Assignment - Assignment 4 <br>Lecture - Classes, Data Members and Methods (Encapsulation) <br>**Exam - Midterm Exam (weeks 6 to 10)** <br>Lab - Implementing Classes (source/headers), Arrays and Objects | [Lecture Slides]()<br>[Lecture Slides]()<br>[Lab](/labs/lab-10) | **Assessment** |
-| Week 12 | Lecture - Constructors <br>Lecture - Dynamic Memory Allocation, Destructors <br>Lab - Developing a String Class (operators, copy constructors) <br>Reading - Savitch, Chapter 14 | [Lecture Slides]()<br>[Lecture Slides]()<br>[Lab](/labs/lab-11) | Lab |
+| Week 12 | Lecture - Constructors <br>Lecture - Dynamic Memory Allocation, Destructors <br>Lab - Developing a String Class (operators, copy constructors) <br>Reading - Savitch, Chapter 14 | [Lecture Slides]()<br>[Lecture Slides]()<br>[Lab](/labs/lab-11) | **Assessment** |
 | Week 13 | Lecture - Class Inheritance <br>Lecture - Singly Linked Lists <br>Lab - STL Containers, File I/O, CLAs <br>Reading - Savitch, Chapter 15 | [Lecture Slides]()<br>[Lecture Slides]()<br>[Lab](/labs/lab-12) | **Assessment** |
-| Week 14 | **Exam - Final Exam (cumulative with focus on weeks 11 to 14)** | None | **Assessment** |
+| Week 14 | **Exam - Final Exam (cumulative with focus on weeks 11 to 14)** | None | None |
 
 

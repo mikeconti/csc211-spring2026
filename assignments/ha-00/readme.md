@@ -2,7 +2,7 @@
 
 In this assignment you are expected to work in groups.   Your group will write a short paper titled: `Milestones in the History of Computing`.  To this end, follow the steps below:
 
-1. Find your group members [here](https://docs.google.com/spreadsheets/d/1He7zY6-rRkd-duMfh9MqH8leoEYIfHjOcL_Ln519CqI/edit?usp=sharing)
+1. Find your group members [here](https://docs.google.com/spreadsheets/d/1k0SqSXi0pwlClCX1FDetsmTyJvy_AShAFi1IDs53FVw/edit?usp=sharing)
 
 2. Your paper should include a list of sections (milestones) in the history of computing.  Under each section you are expected to provide a brief narrative related to that particular milestone.  Below, we have listed the required milestones as a way for you to organize the paper, as well as to help divide up the work between group members.  We aren't looking for large sections, just a few paragraphs for each is fine.  A good way to summarize each section is:
 

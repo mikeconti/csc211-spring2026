@@ -71,9 +71,11 @@ Upon successful completion of this course, each student will be able to:
 * [Problem Solving with C++](https://www.pearson.com/en-us/subject-catalog/p/problem-solving-with-c/P200000003225/9780137982226), 10th Ed., W. Savitch.
 
 
-### Lab Sessions
+**Lab and Mastery-Based Assessment Policy:**
 
-Lab sessions will be held on Thursday and Mondays. Lab sessions involve short explanations given by TAs or the instructor, followed by a set of programming exercises. Students are required to solve all programming exercises during the lab session and turn in solutions through Gradescope. Lab work is not graded work, however, attendance will be part of the final grade. We use your submitted solutions to record your attendance.
+Lab periods will alternate between traditional instructional labs and assessment sessions throughout the semester. During designated *assessment weeks*, the scheduled lab time will be used for topic-based exams instead of a hands-on lab. Once a topic has been fully covered in lecture, its corresponding exam becomes available and remains open for the remainder of the semester. Students may choose which available topic exam(s) to take during any assessment session, based on their individual readiness and progress. 
+
+**To pass the course, students must earn a score of 80% or higher on *each* required topic assessment.** Each topic assessment may be attempted up to three times, and the highest score is recorded. This mastery-based structure ensures that students demonstrate proficiency in all core course concepts while allowing flexibility in pacing and opportunities for improvement.
 
 ### Programming Assignments
 

@@ -71,7 +71,7 @@ Upon successful completion of this course, each student will be able to:
 * [Problem Solving with C++](https://www.pearson.com/en-us/subject-catalog/p/problem-solving-with-c/P200000003225/9780137982226), 10th Ed., W. Savitch.
 
 
-**Lab and Mastery-Based Assessment Policy:**
+### Lab and Mastery-Based Assessment Policy:
 
 Lab periods will alternate between traditional instructional labs and assessment sessions throughout the semester. During designated *assessment weeks*, the scheduled lab time will be used for topic-based exams instead of a hands-on lab. Once a topic has been fully covered in lecture, its corresponding exam becomes available and remains open for the remainder of the semester. Students may choose which available topic exam(s) to take during any assessment session, based on their individual readiness and progress. 
 

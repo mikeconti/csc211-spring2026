@@ -9,8 +9,8 @@
 **Teaching Assistants:** 
 
 
-
-* **Undergraduate:** Ethan, Liam, Maedeh <br>
+* **Graduate:** Maedeh <br>
+* **Undergraduate:** Ethan, Liam <br>
 
 
 **Office Hours Schedule** - Tyler 3rd Floor Lounge

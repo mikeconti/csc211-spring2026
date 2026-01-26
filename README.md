@@ -20,7 +20,7 @@
 | Monday    | Ethan                                | 4:00 PM – 5:30 PM                                                    | In-person |
 | Tuesday   | Ethan <br> Maedeh <br> Ethan          | 9:00 AM – 10:45 AM <br> 10:30 AM – 11:30 AM <br> 1:00 PM – 3:00 PM   | In-person <br> Zoom (upon request) <br> In-person |
 | Wednesday | Maedeh <br> Liam                     | 1:00 PM – 3:00 PM <br> 12:30 PM – 2:30 PM                            | [Zoom](https://uri-edu.zoom.us/j/92473493650) & In-person <br> In-person |
-| Thursday  | Ethan <br> Maedeh <br> Ethan <Mike>          | 9:00 AM – 10:45 AM <br> 11:00 AM – 12:00 PM <br> 1:00 PM – 2:00 PM <br> 3:30 PM - 4:30 PM  | In-person <br> [Zoom](https://uri-edu.zoom.us/j/92473493650) (in-person upon request) <br> In-person <br> Tyler 132 |
+| Thursday  | Ethan <br> Maedeh <br> Ethan <Mike>          | 9:00 AM – 10:45 AM <br> 11:00 AM – 12:00 PM <br> 3:30 PM - 4:30 PM  | In-person <br> [Zoom](https://uri-edu.zoom.us/j/92473493650) (in-person upon request) <br> In-person <br> Tyler 132 |
 | Friday    | Liam                                 | 1:00 PM – 3:00 PM                                                    | In-person |
 |Appointments| Liam                                | [Book here](https://calendar.app.google/BE3evD4c4KU2F9Rp6)|In-person or via [Zoom](https://uri-edu.zoom.us/j/8658926757)|
 

@@ -35,7 +35,7 @@
 | Day | Staff Member |  Time | Location |
 | --- | --- | --- | --- |
 |TBD | Ethan | TBD | TBD |
-|TBD | TBD |TBD | TBD| 
+|Thursday | Maedeh |12:00 PM - 1:00 PM | [Zoom](https://uri-edu.zoom.us/j/92473493650)| 
 
 
  **Lab**

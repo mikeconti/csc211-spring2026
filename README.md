@@ -43,7 +43,7 @@
 | Day       | Staff Member            | Time                                   | Room        |
 |-----------|-------------------------|----------------------------------------|-------------|
 | Monday    | Liam                    | 3:00 PM – 4:45 PM                      | Rodman 109|
-| Wednesday | Maedeh <br> Ethan       | 3:00 PM – 4:45 PM                      | Tyler 055 |
+| Wednesday | Maedeh <br> Ethan       | 3:00 PM – 4:45 PM                      | Tyler 108 |
 | Thursday  | Liam <br> Maedeh        | 3:30 PM – 5:15 PM                      | Washburn 112|
 
 
